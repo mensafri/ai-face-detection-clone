@@ -9,19 +9,21 @@ Repository ini adalah clone dari https://github.com/Exclusiveideas/ai-face-detec
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
 
 ### Langkah Instalasi
-**1. Clone proyek ini dengan menjalankan perintah** <br />
+**1. Buka terminal atau cmd pada komputer Anda.**
+
+**2. Clone proyek ini dengan menjalankan perintah** <br />
    ``` git clone https://github.com/mensafri/ai-face-detection-clone.git ```
 <br />
 
-**2. Masuk ke dalam direktori proyek**  <br />
+**3. Masuk ke dalam direktori proyek**  <br />
    ``` cd ai-face-detection ``` 
    <br />
    
-**3. Instal semua dependensi yang diperlukan** <br />
+**4. Instal semua dependensi yang diperlukan** <br />
     ``` npm i ``` 
     <br />
     
-**4. Mulai server pengembangan aplikasi**<br />
+**5. Mulai server pengembangan aplikasi**<br />
     ``` npm start ```
 
 <br /> 
