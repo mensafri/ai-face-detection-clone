@@ -1,33 +1,32 @@
-# AI-FACE DETECTION
+### Deteksi Wajah AI
 
-### Brief Intro
+### Pengantar Singkat
 
-AI face detection is a web app which track the user's face and displays a list of possible fcaial expression based on high probability using the face-api.js library.
+Deteksi wajah AI adalah sebuah aplikasi web yang melacak wajah pengguna dan menampilkan daftar kemungkinan ekspresi wajah berdasarkan probabilitas tinggi menggunakan perpustakaan face-api.js.
+Repository ini adalah clone dari https://github.com/Exclusiveideas/ai-face-detection.git
 
 ### STACK
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Exclusiveideas)
 
-
-### Installation Steps 
-**1. First clone the project by running** <br />
-   ``` git clone https://github.com/Exclusiveideas/ai-face-detection.git ```
+### Langkah Instalasi
+**1. Clone proyek ini dengan menjalankan perintah** <br />
+   ``` git clone https://github.com/mensafri/ai-face-detection-clone.git ```
 <br />
 
-**2. Go into the project directory**  <br />
+**2. Masuk ke dalam direktori proyek**  <br />
    ``` cd ai-face-detection ``` 
    <br />
    
-**3. Install all the required dependencies** <br />
+**3. Instal semua dependensi yang diperlukan** <br />
     ``` npm i ``` 
     <br />
     
-**4. Start the application development server**<br />
+**4. Mulai server pengembangan aplikasi**<br />
     ``` npm start ```
 
 <br /> 
 
-
-**The app is now running**
+**Aplikasi sekarang sedang berjalan**
 <br />
 
-#### Don't forget to star this repository✨✨.
+#### Jangan lupa untuk memberikan bintang ke repository ini✨✨.
